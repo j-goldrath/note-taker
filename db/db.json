@@ -1,12 +1,17 @@
 [
     {
-        "title": "Test Title 1",
-        "text": "Test Note 1",
-        "id": "6fbe"
+        "title": "Homework",
+        "text": "-History Essay\n-English Paper\n-Science Project",
+        "id": "ddee"
     },
     {
-        "title": "Test Title 2",
-        "text": "Test Note 2",
-        "id": "75f2"
+        "title": "To-Do's",
+        "text": "- Wash the car\n- Do the laundry\n- Call for appointment with doctor\n- Make dinner reservations for Friday night",
+        "id": "b21d"
+    },
+    {
+        "title": "Grocery List",
+        "text": "- Milk\n- Cereal\n- Eggs\n- Bread",
+        "id": "9fb6"
     }
 ]

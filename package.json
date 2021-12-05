@@ -1,14 +1,29 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker Application",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "engines": {
+    "node": "14.x"
   },
-  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jonathan Goldrath",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-goldrath/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/j-goldrath/note-taker/issues"
+  },
+  "homepage": "https://github.com/j-goldrath/note-taker#readme"
 }
