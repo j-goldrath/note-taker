@@ -18,5 +18,4 @@ npm start
 ![Dashboard](https://github.com/j-goldrath/note-taker/blob/main/public/assets/images/note-taker-app-dashboard.png?raw=true)
 
 ## Demo
-Click this link to see a live demo of this app:
-[Note-Taker Live Demo](https://peaceful-beyond-09080.herokuapp.com/)
+[Click this link to see a live demo of the note-taker app](https://peaceful-beyond-09080.herokuapp.com/)
